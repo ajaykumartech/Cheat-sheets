@@ -22,5 +22,5 @@ See [the contribution guide](https://github.com/Randy8080/reference/blob/main/CO
 
 
 ## License
-[MIT](https://github.com/Randy8080/reference/blob/main/LICENSE) © [Randy8080](https://github.com/Randy8080)
+[MIT] © [ajaykumartech](https://github.com/ajaykumartech)
 
